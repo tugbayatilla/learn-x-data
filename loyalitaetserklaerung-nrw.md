@@ -55,6 +55,14 @@ das Grundsystem, die Basis-Ordnung
 
 die deutsche Verfassung
 
+```warning
+Nicht „Grundgesetzt" — das Wort endet ohne t.
+```
+
+```information
+Das Grundgesetz gilt seit dem 23. Mai 1949.
+```
+
 - Das Grundgesetz gilt seit 1949 in Deutschland.
   *The Basic Law has been in force in Germany since 1949.*
 - Im Grundgesetz stehen die wichtigsten Rechte.

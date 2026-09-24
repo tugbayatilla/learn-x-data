@@ -65,7 +65,9 @@ die deutsche Verfassung
 | `### Heading` | an **item** — this is the text that gets spoken and repeated |
 | `*italic line*` under an item | that item's translation |
 | a plain paragraph under an item | a simple explanation, in the topic's own language |
-| `> quoted line` | a note — shown on the card, never spoken |
+| `> quoted line` | an **information** callout — shown on the card, never spoken |
+| ` ```information ` … ` ``` ` | the same, said explicitly, and it may run several lines |
+| ` ```warning ` … ` ``` ` | a **warning**: a trap, a false friend, something that costs marks |
 | `- bullet` | an example sentence |
 | an indented `*italic*` line under a bullet | that example's translation |
 

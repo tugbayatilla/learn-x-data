@@ -31,6 +31,14 @@ eine einfache Erklärung in der Sprache des Themas
 
 > Eine Notiz. Wird angezeigt, aber nie vorgelesen.
 
+```warning
+Eine Warnung: eine Falle, ein falscher Freund. Wird angezeigt, nie vorgelesen.
+```
+
+```information
+Ein Hinweis mit Hintergrund. Ebenfalls nur zum Lesen.
+```
+
 - Das Wort steht im Satz.
   *The word is in the sentence.*
 - Ich kenne dieses Wort.
