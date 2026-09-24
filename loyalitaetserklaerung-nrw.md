@@ -24,7 +24,7 @@ spec:
 
 Einbürgerung NRW – Wörter und Konzepte
 
-Dieses Deck hilft beim Verstehen der **Loyalitätserklärung**, die man bei der Einbürgerung unterschreibt.
+Dieses Thema hilft beim Verstehen der **Loyalitätserklärung**, die man bei der Einbürgerung unterschreibt.
 
 Teil A: die freiheitliche demokratische Grundordnung. Teil B: die besondere historische Verantwortung Deutschlands. Zum Schluss: die fünf Versprechen der Unterschrift.
 
