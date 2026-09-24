@@ -2,7 +2,7 @@
 apiVersion: learnx/v1
 kind: Topic
 metadata:
-  id: com.example.my-topic          # unique, stable, never reused
+  name: my-topic                    # unique in this repository; identity is repo + name
   version: 1                        # raise by 1 whenever you change the content
   labels:                           # optional, free-form, for grouping
     level: A2

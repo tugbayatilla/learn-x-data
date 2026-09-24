@@ -14,7 +14,7 @@ Two parts: YAML front matter for what the app needs to know, Markdown for the co
 apiVersion: learnx/v1
 kind: Topic
 metadata:
-  id: de.einbuergerung.loyalitaetserklaerung-nrw
+  name: loyalitaetserklaerung-nrw
   version: 1
   labels:
     level: B1
@@ -29,7 +29,7 @@ spec:
 |---|---|---|
 | `apiVersion` | ✔ | Always `learnx/v1`. A file without it is ignored. |
 | `kind` | ✔ | Always `Topic`. |
-| `metadata.id` | ✔ | Unique and stable. Identifies the topic forever — never reuse or change it. |
+| `metadata.name` | ✔ | Unique **in this repository**. Identity is repository + name, so another repository may use the same name. |
 | `metadata.version` | – | A whole number. **Raise it by 1 every time you change the content**, or the app will not re-download. |
 | `metadata.labels` | – | Free-form pairs for grouping: `level`, `region`, whatever you need. |
 | `spec.language` | ✔ | What gets spoken, e.g. `de-DE`. Picks the voice. |
@@ -73,7 +73,7 @@ Order matters: translation, explanation, note, examples. Everything except the `
 
 ## Rules
 
-- **One topic per file.** The file name is yours to choose; the `id` is what identifies it.
+- **One topic per file.** The file name is yours to choose; `metadata.name` is what identifies it here.
 - **Raise `version` when you change anything.** That is the only signal the app has that a topic moved on.
 - Write the explanation in the topic's own language, simply. It is for a learner, not a dictionary.
 - Keep an item to one idea. A three-sentence passage is fine as an item, but do not stack unrelated ones.

@@ -2,7 +2,7 @@
 apiVersion: learnx/v1
 kind: Topic
 metadata:
-  id: de.einbuergerung.loyalitaetserklaerung-nrw
+  name: loyalitaetserklaerung-nrw
   version: 1
   labels:
     level: B1
