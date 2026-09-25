@@ -34,7 +34,7 @@ spec:
 | `metadata.labels` | – | Free-form pairs for grouping: `level`, `region`, whatever you need. |
 | `spec.language` | ✔ | What gets spoken, e.g. `de-DE`. Picks the voice. |
 | `spec.translationLanguage` | – | The language your translations are in. Needed only if you write any. |
-| `spec.settings` | – | Playback defaults for this topic: `repetitions` 1–5, `examplesPerItem` 0–3, `echoPause` 0.5–5.0, `speechRate` 0.5–1.2, `loopSection`. Anything else is ignored and reported. |
+| `spec.settings` | – | Playback defaults for this topic: `repetitions` 1–5, `examplesPerItem` 0–3, `echoPause` 0.5–5.0, `speechRate` 0.5–1.2, `repeat` (`off` / `section` / `topic`). The older `loopSection: true|false` still reads as `section` / `off`. Anything else is ignored and reported. |
 
 ## The content
 
@@ -79,5 +79,7 @@ Order matters: translation, explanation, note, examples. Everything except the `
 - **Raise `version` when you change anything.** That is the only signal the app has that a topic moved on.
 - Write the explanation in the topic's own language, simply. It is for a learner, not a dictionary.
 - Keep an item to one idea. A three-sentence passage is fine as an item, but do not stack unrelated ones.
+- **No signs in anything that gets spoken.** A voice reads `=`, `→`, `(`, `)`, `/`, `–` and `z. B.` out loud or stumbles over them, and the learner hears noise. Write the words instead: *heißt dasselbe wie*, *zum Beispiel*, *Artikel 1 bis 19*. This covers the `###` line, its translation, the explanation and every example. Shorthand that really helps belongs in an `information` or `warning` callout, which is never spoken.
+- **No part or point numbering inside an item.** `Teil A`, `Punkt 6`, `Versprechen 1` are navigation, not content. They go in the `##` section heading or in a callout — never in the `###` line the voice reads.
 - Files that are not topics — this README, notes, drafts — are ignored. Nothing needs a list of what exists.
 - Anything the app does not understand is skipped and named, never silently dropped.
