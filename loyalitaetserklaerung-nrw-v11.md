@@ -2,8 +2,8 @@
 apiVersion: learnx/v1
 kind: Topic
 metadata:
-  name: loyalitaetserklaerung-nrw-v10
-  version: 10
+  name: loyalitaetserklaerung-nrw-v11
+  version: 11
   labels:
     level: B1
     country: de
@@ -22,7 +22,8 @@ spec:
 
 # Loyalitätserklärung
 
-Einbürgerung NRW. Der Originaltext und dazu die B1 Fassung, zum Lesen, Sprechen und Lernen.
+Einbürgerung NRW. Zu jedem Abschnitt der Originaltext, die B1 Fassung und die Antwort, die man bei
+der Behörde sagen kann.
 
 Teil A ist das Bekenntnis zur freiheitlichen demokratischen Grundordnung. Teil B ist das
 Bekenntnis zur besonderen historischen Verantwortung Deutschlands. Teil C ist die Unterschrift.
@@ -45,6 +46,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 
 *In Germany there is no dictatorship. Nobody may rule by violence or without rules. Power in the state comes from the people. The people elect politicians to parliament, and these politicians decide for the people. Germany is a state under the rule of law. The state protects the dignity, the freedom and the equality of every person.*
 
+### Das ist das Grundsystem von Deutschland. Es gibt keine Diktatur. Die Macht kommt vom Volk. Der Staat schützt die Würde, die Freiheit und die Gleichheit von jedem Menschen.
+
+*It is the basic system of Germany. There is no dictatorship. Power comes from the people. The state protects the dignity, the freedom and the equality of every person.*
+
+> Antwort auf die Frage: Was ist die freiheitliche demokratische Grundordnung?
+
 
 ## Teil A, Was bedeutet dies konkret
 
@@ -57,6 +64,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 ### Die freiheitliche demokratische Grundordnung ist die Basis für ein friedliches Leben in Deutschland. In diesem einen Begriff stecken die Werte des Grundgesetzes. Danach kommt eine Liste mit den wichtigsten Prinzipien.
 
 *The free democratic basic order is the basis for a peaceful life in Germany. This single term contains the values of the Basic Law. After that comes a list with the most important principles.*
+
+### Sie ist die Basis für ein friedliches Leben in Deutschland. In ihr stecken die Werte des Grundgesetzes.
+
+*It is the basis for a peaceful life in Germany. It contains the values of the Basic Law.*
+
+> Antwort auf die Frage: Warum ist diese Grundordnung wichtig?
 
 
 ## Teil A, Die Prinzipien
@@ -71,6 +84,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 
 *These are the principles: respect for human rights with the right to life, free development and equal treatment, plus equal rights of women and men. Then sovereignty of the people, separation of powers, accountability of the government, legality of the administration, independence of the courts, and the multi-party principle with equal chances for all parties and the right to an opposition.*
 
+### Die Menschenrechte, die Macht des Volkes, die Gewaltenteilung, die Verantwortung der Regierung, die Gesetze für die Verwaltung, die unabhängigen Gerichte und viele Parteien mit gleichen Chancen.
+
+*Human rights, the power of the people, the separation of powers, the responsibility of the government, the laws for the administration, independent courts, and many parties with equal chances.*
+
+> Antwort auf die Frage: Welche Prinzipien gehören dazu?
+
 
 ## Teil A, 1. Demokratie und Volksherrschaft
 
@@ -83,6 +102,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 ### In Deutschland hat das Volk die Macht. Die Menschen wählen regelmäßig Politiker: für ganz Deutschland, für ihr Bundesland und für ihre Stadt. Diese Politiker kümmern sich um die Themen ihrer Ebene. Sie stimmen ab, und die Mehrheit entscheidet.
 
 *In Germany the people hold power. People regularly elect politicians: for the whole of Germany, for their federal state and for their city. These politicians take care of the topics of their level. They vote, and the majority decides.*
+
+### Vom Volk. Wir wählen Politiker für den Bund, für das Land und für die Gemeinde. Die Mehrheit entscheidet.
+
+*From the people. We elect politicians for the federation, the state and the municipality. The majority decides.*
+
+> Antwort auf die Frage: Von wem kommt die Macht im Staat?
 
 
 ## Teil A, 2. Achtung der Grundrechte
@@ -97,6 +122,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 
 *Fundamental rights protect me from the state. But the state must also protect me from other people and groups. Every person may live freely and develop freely. Nobody may forbid another person to practise their religion, to get information, to learn or to work. Men and women have the same rights.*
 
+### Das sind die wichtigsten Rechte im Grundgesetz. Sie schützen mich vor dem Staat und auch vor anderen Menschen. Männer und Frauen haben die gleichen Rechte.
+
+*They are the most important rights in the Basic Law. They protect me from the state and also from other people. Men and women have the same rights.*
+
+> Antwort auf die Frage: Was sind die Grundrechte?
+
 
 ## Teil A, 3. Gewaltenteilung
 
@@ -109,6 +140,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 ### Die Macht im Staat ist auf drei Gruppen verteilt, damit niemand zu viel Macht hat. Die Parlamente machen die Gesetze. Die Regierung und die Ämter setzen die Gesetze um. Die Gerichte sprechen Urteile. Das Parlament kontrolliert die Regierung.
 
 *Power in the state is divided among three groups so that nobody has too much power. The parliaments make the laws. The government and the public offices implement the laws. The courts pass judgments. Parliament controls the government.*
+
+### Die Macht ist geteilt. Das Parlament macht die Gesetze, die Regierung setzt sie um, die Gerichte sprechen Urteile. So hat niemand zu viel Macht.
+
+*Power is divided. Parliament makes the laws, the government implements them, the courts pass judgments. This way nobody has too much power.*
+
+> Antwort auf die Frage: Was ist die Gewaltenteilung?
 
 
 ## Teil A, 4. Rechtsstaatsprinzip
@@ -123,6 +160,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 
 *The government and the public offices must also keep to the laws. If a public office violates my rights, I can go to court. Every person may ask a court.*
 
+### Die Gesetze gelten für alle, auch für die Regierung und für die Ämter. Wenn ein Amt meine Rechte verletzt, kann ich vor Gericht gehen.
+
+*The laws apply to everyone, also to the government and the public offices. If an office violates my rights, I can go to court.*
+
+> Antwort auf die Frage: Was heißt Rechtsstaat?
+
 
 ## Teil A, 5. Gesetzmäßigkeit der Verwaltung
 
@@ -135,6 +178,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 ### Die Ämter müssen die Gesetze kennen und benutzen. Wenn der Staat meine Rechte einschränken will, braucht er dafür ein Gesetz. Ohne Gesetz darf er das normalerweise nicht.
 
 *The public offices must know and use the laws. If the state wants to restrict my rights, it needs a law for that. Without a law it normally may not do so.*
+
+### Nein. Wenn ein Amt in meine Rechte eingreifen will, braucht es dafür ein Gesetz.
+
+*No. If an office wants to interfere with my rights, it needs a law for that.*
+
+> Antwort auf die Frage: Darf ein Amt alles machen?
 
 
 ## Teil A, 6. Unabhängigkeit der Gerichte
@@ -149,6 +198,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 
 *The courts are free. The government and parliament may not tell the judges how to decide. Every person has the right to a fair procedure in court.*
 
+### Ja. Niemand darf den Richtern sagen, wie sie entscheiden sollen. Jeder Mensch hat das Recht auf ein faires Verfahren.
+
+*Yes. Nobody may tell the judges how to decide. Every person has the right to a fair procedure.*
+
+> Antwort auf die Frage: Sind die Gerichte frei?
+
 
 ## Teil A, 7. Mehrparteienprinzip und Chancengleichheit der politischen Parteien
 
@@ -161,6 +216,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 ### In Deutschland gibt es viele Parteien, nicht nur eine. Alle Parteien haben die gleichen Chancen. Jeder darf eine Partei gründen. Der Staat mischt sich nicht ein. Bei Wahlen dürfen alle Parteien Werbung machen. So gibt es viele verschiedene Meinungen in der Politik.
 
 *In Germany there are many parties, not just one. All parties have the same chances. Anyone may found a party. The state does not interfere. In elections all parties may campaign. In this way there are many different opinions in politics.*
+
+### Damit es viele Meinungen gibt. Alle Parteien haben die gleichen Chancen, und der Staat mischt sich nicht ein.
+
+*So that there are many opinions. All parties have the same chances, and the state does not interfere.*
+
+> Antwort auf die Frage: Warum gibt es viele Parteien?
 
 
 ## Teil A, 8. Recht auf verfassungsmäßige Bildung und Ausübung einer Opposition
@@ -175,6 +236,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 
 *The opposition are the parties that are not in the government. They control the government and criticise it. They may also propose their own laws. The government may not disturb or block the opposition.*
 
+### Sie kontrolliert die Regierung und kritisiert sie. Sie kann eigene Gesetze vorschlagen. Die Regierung darf sie nicht stören.
+
+*It controls the government and criticises it. It can propose its own laws. The government may not disturb it.*
+
+> Antwort auf die Frage: Was macht die Opposition?
+
 
 ## Teil A, Schluss
 
@@ -187,6 +254,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 ### Sie müssen diese Punkte verstehen und akzeptieren. Wenn Sie etwas nicht verstehen, fragen Sie bitte.
 
 *You must understand and accept these points. If you do not understand something, please ask.*
+
+### Ja, ich habe es verstanden und ich akzeptiere es. Wenn etwas unklar ist, frage ich nach.
+
+*Yes, I have understood it and I accept it. If something is unclear, I ask.*
+
+> Antwort auf die Frage: Haben Sie alles verstanden?
 
 
 ## Teil B, Der Grundsatz
@@ -201,6 +274,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 
 *Because of the Nazi era Germany has a special responsibility. That is a very important principle in Germany.*
 
+### Wegen der Zeit des Nationalsozialismus und wegen der Folgen. Das ist ein sehr wichtiges Prinzip in Deutschland.
+
+*Because of the Nazi era and its consequences. That is a very important principle in Germany.*
+
+> Antwort auf die Frage: Warum hat Deutschland eine besondere Verantwortung?
+
 
 ## Teil B, Das Grundgesetz als Gegenentwurf
 
@@ -213,6 +292,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 ### Das Grundgesetz ist das Gegenteil von der Diktatur der Nationalsozialisten. Es ist so gebaut, dass Deutschland aus der Geschichte lernt. So ein Unrecht soll nie wieder passieren.
 
 *The Basic Law is the opposite of the dictatorship of the National Socialists. It is built so that Germany learns from history. Such injustice must never happen again.*
+
+### Das Grundgesetz ist das Gegenteil von der Diktatur. Deutschland soll aus der Geschichte lernen. So ein Unrecht soll nie wieder passieren.
+
+*The Basic Law is the opposite of the dictatorship. Germany is meant to learn from history. Such injustice must never happen again.*
+
+> Antwort auf die Frage: Was hat das Grundgesetz mit dieser Zeit zu tun?
 
 
 ## Teil B, Nicht vereinbar mit einer Einbürgerung
@@ -227,6 +312,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 
 *Whoever does not accept this responsibility cannot be naturalised. Examples are the terrorist attacks by Hamas on Israel on 7 October 2023, demonstrations and violence against Jews and against Israel in Germany, and Russia's war of aggression against Ukraine. Whoever supports such things cannot become German.*
 
+### Terror gegen Israel, Hass gegen Juden, Gewalt bei Demonstrationen und ein Angriffskrieg wie der von Russland gegen die Ukraine.
+
+*Terror against Israel, hatred against Jews, violence at demonstrations, and a war of aggression like Russia against Ukraine.*
+
+> Antwort auf die Frage: Was passt nicht zu einer Einbürgerung?
+
 
 ## Teil C, Mit Ihrer Unterschrift
 
@@ -239,6 +330,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 ### Mit Ihrer Unterschrift sagen Sie Ja zur freiheitlichen demokratischen Grundordnung und Ja zur besonderen historischen Verantwortung Deutschlands.
 
 *With your signature you say yes to everything in part A and part B.*
+
+### Ich sage Ja zu den Grundwerten der Demokratie und zur besonderen historischen Verantwortung von Deutschland.
+
+*I say yes to the fundamental values of democracy and to the special historical responsibility of Germany.*
+
+> Antwort auf die Frage: Was sagen Sie mit Ihrer Unterschrift?
 
 
 ## Teil C, 1. Keine Bestrebungen gegen die Grundordnung
@@ -253,6 +350,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 
 *I do not help anybody who fights against democracy, and I do not fight against it myself.*
 
+### Ich unterstütze keine Gruppe, die gegen die Demokratie kämpft, und ich arbeite auch selbst nicht dagegen.
+
+*I do not support any group that fights against democracy, and I do not work against it myself either.*
+
+> Antwort auf die Frage: Was versprechen Sie zuerst?
+
 
 ## Teil C, 2. Nichts gegen den Bestand Deutschlands
 
@@ -265,6 +368,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 ### Ich tue nichts, um Deutschland als Staat zu zerstören.
 
 *I do nothing to destroy Germany as a state.*
+
+### Ich tue nichts gegen die Existenz von Deutschland als Staat.
+
+*I do nothing against the existence of Germany as a state.*
+
+> Antwort auf die Frage: Was versprechen Sie als Zweites?
 
 
 ## Teil C, 3. Die gewählten Organe nicht behindern
@@ -279,6 +388,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 
 *I do not disturb the work of parliament and government.*
 
+### Ich störe die Arbeit von Parlament und Regierung nicht.
+
+*I do not disturb the work of parliament and government.*
+
+> Antwort auf die Frage: Was versprechen Sie als Drittes?
+
 
 ## Teil C, 4. Die auswärtigen Belange nicht gefährden
 
@@ -292,6 +407,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 
 *I do not use violence, and I do not plan violence that harms Germany's relations with other countries.*
 
+### Ich benutze keine Gewalt gegen die Interessen von Deutschland im Ausland, und ich plane auch keine Gewalt.
+
+*I do not use violence against Germany’s interests abroad, and I do not plan any violence either.*
+
+> Antwort auf die Frage: Was versprechen Sie als Viertes?
+
 
 ## Teil C, 5. Kein Hass gegen Menschen
 
@@ -304,6 +425,12 @@ steht hier ohne Abkürzungen und ohne Klammern, sonst unverändert.
 ### Ich helfe niemandem, der Hass und Gewalt gegen Juden, gegen Menschen anderer Herkunft, gegen Ausländer oder gegen andere Gruppen will, und ich tue es selbst nicht.
 
 *I do not help anybody who wants hatred and violence against Jews, against people of other origin, against foreigners or against other groups, and I do not do it myself.*
+
+### Ich unterstütze keinen Hass gegen Juden, gegen Menschen anderer Herkunft oder gegen andere Gruppen.
+
+*I do not support hatred against Jews, against people of other origin or against other groups.*
+
+> Antwort auf die Frage: Was versprechen Sie als Letztes?
 
 
 ## Häufige Fragen
