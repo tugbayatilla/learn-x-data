@@ -76,6 +76,7 @@ Order matters: translation, explanation, note, examples. Everything except the `
 ## Rules
 
 - **One topic per file.** The file name is yours to choose; `metadata.name` is what identifies it here.
+- **Every change is a new version, never an edit in place.** A delivered topic stays as it is: write `…-v11.md` next to `…-v10.md`, raise `metadata.name` and `metadata.version` together, and keep the old file. Versions get compared against each other, so overwriting one destroys the comparison. The same holds for anything generated from a topic, such as a PDF: new number, new file name, old file untouched.
 - **Raise `version` when you change anything.** That is the only signal the app has that a topic moved on.
 - Write the explanation in the topic's own language, simply. It is for a learner, not a dictionary.
 - Keep an item to one idea. A three-sentence passage is fine as an item, but do not stack unrelated ones.
