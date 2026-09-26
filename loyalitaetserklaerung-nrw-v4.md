@@ -2,8 +2,8 @@
 apiVersion: learnx/v1
 kind: Topic
 metadata:
-  name: loyalitaetserklaerung-nrw-v3
-  version: 3
+  name: loyalitaetserklaerung-nrw-v4
+  version: 4
   labels:
     level: B1
     country: de
